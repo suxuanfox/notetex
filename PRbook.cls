@@ -1,13 +1,16 @@
-% Copyright 2021  李文威 (Wen-Wei Li).
-% Permission is granted to copy, distribute and/or modify this
-% document under the terms of the Creative Commons
-% Attribution 4.0 International (CC BY 4.0)
-% http://creativecommons.org/licenses/by/4.0/
+%本作品使用了《代数学方法：卷二》模板AJbook2.cls、titles-setup.tex、font-setup-Noto.tex等
+%原作者: 李文威
+%原模板来源: https://github.com/wenweili/AlJabr-2
+%原许可: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)
 
-% We make use of etoolbox. The package ntheorem is implicitly required.
-% It will also import the files titles-setup.tex (for titles of sections) and font-setup-open.tex/font-setup-HEP.tex (for fonts).
+%本项目/文档在原模板基础上进行了修改，包括：
+%- 调整主题样式
+%- 修改字体和颜色
 
-% Identification
+%声明：
+%1. 保留原作者署名和许可信息；
+%2. 修改部分由 Su Xuan(2026) 完成；
+%3. 本作品遵循 CC BY 4.0 许可，可自由使用、修改和再发布，但必须保留本署名信息。
 % --------------
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{PRbook}[2021/03/04 Class for the book project Methods of Algebra]
@@ -107,8 +110,6 @@
 
 % 设置西文无衬线字体 
 \setsansfont{TeX Gyre Heros}
-
-% ========== 中文字体设置 ==========
 
 % ========== 中文字体设置 ==========
 \usepackage{xeCJK}
