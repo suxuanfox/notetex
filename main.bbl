@@ -1,0 +1,63 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{AM10}{book}{}
+      \name{author}{2}{}{%
+        {{hash=f912b605f8a08cb8138df0af4db63ed8}{%
+           family={Aguiar},
+           familyi={A\bibinitperiod},
+           given={Marcelo},
+           giveni={M\bibinitperiod}}}%
+        {{hash=49b57cf3973308fbc49a8c7a1dad9cbd}{%
+           family={Mahajan},
+           familyi={M\bibinitperiod},
+           given={Swapneel},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Mathematical Society, Providence, RI}%
+      }
+      \strng{namehash}{2f4327b49e171f6d695e6999e00f8a03}
+      \strng{fullhash}{2f4327b49e171f6d695e6999e00f8a03}
+      \strng{bibnamehash}{2f4327b49e171f6d695e6999e00f8a03}
+      \strng{authorbibnamehash}{2f4327b49e171f6d695e6999e00f8a03}
+      \strng{authornamehash}{2f4327b49e171f6d695e6999e00f8a03}
+      \strng{authorfullhash}{2f4327b49e171f6d695e6999e00f8a03}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-8218-4776-3}
+      \field{note}{With forewords by Kenneth Brown and Stephen Chase and André Joyal}
+      \field{series}{CRM Monograph Series}
+      \field{title}{Monoidal functors, species and {H}opf algebras}
+      \field{volume}{29}
+      \field{year}{2010}
+      \field{pages}{lii+784}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1090/crmm/029
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
